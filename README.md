@@ -22,5 +22,5 @@ I am a passionate software developer specializing in building scalable backend a
 * **Database:** Orchestrated complex relational database mappings and bulk update commands in **MySQL** using Hibernate/JPA.
 
 ### 📫 Connect with me
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Link]
+- Email: sanjaythipparthi7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sanjay-thipparthi-35ab76273
